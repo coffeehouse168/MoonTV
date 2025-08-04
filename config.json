@@ -86,8 +86,7 @@
       "name": "小猫咪资源"
     }
   },
-  "custom_category": [
-    
+"custom_category": [
   { "type": "movie", "query": "热门" },
   { "type": "movie", "query": "最新" },
   { "type": "movie", "query": "经典" },
@@ -110,7 +109,6 @@
   { "type": "movie", "query": "文艺" },
   { "type": "movie", "query": "家庭" },
   { "type": "movie", "query": "儿童" },
-
   { "type": "tv", "query": "热门" },
   { "type": "tv", "query": "美剧" },
   { "type": "tv", "query": "英剧" },
@@ -124,6 +122,4 @@
   { "type": "tv", "query": "动漫" },
   { "type": "tv", "query": "家庭" },
   { "type": "tv", "query": "儿童" }
-    }
-  ]
-}
+]
